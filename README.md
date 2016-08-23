@@ -1,4 +1,4 @@
 # mapbox-test
 Testing Mapbox
 
-Don't forget to add your ACESS TOKEN generated in mapbox.com to the app.js file.
+Don't forget to add your ACCESS TOKEN generated in mapbox.com to the app.js file.
